@@ -1,8 +1,8 @@
 # SCHEDULER SIMULATION, A3 COMP3430
 
-author:     Pylypenko Maksym 7802672
-language:   Python 3.6.1
-date:       2018-06-30
+* author:     Pylypenko Maksym 7802672
+* language:   Python 3.6.1
+* date:       2018-06-30
 
 ## Configuration section is in the top of main.py and contains the folling parameters:
 
