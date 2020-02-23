@@ -9,6 +9,7 @@
   - default is 5
 
 `SCHEDULER` - type of scheduler
+
 0. Pure Round Robin
 1. Priority Round Robin
 2. Shortest Job First
