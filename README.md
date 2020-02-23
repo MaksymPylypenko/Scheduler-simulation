@@ -1,8 +1,4 @@
-# SCHEDULER SIMULATION, A3 COMP3430
-
-* author:     Pylypenko Maksym 7802672
-* language:   Python 3.6.1
-* date:       2018-06-30
+# SCHEDULER SIMULATION
 
 ## Config
 
@@ -30,5 +26,5 @@
   - default is "processes" 
   - ignored if RANDOM_SAMPLE is set to TRUE
 
-## To run on linux machine (choose custom scheduler):
+## To run:
 > python3 main.py <schedulerType>
