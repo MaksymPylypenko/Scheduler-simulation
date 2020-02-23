@@ -36,9 +36,7 @@
 ## To run on linux machine (choose custom scheduler):
 > python3 main.py <schedulerType>
 
-## Analysis 
--------------------------------------------
-Statistical Analysis for Pure Round-Robin
+## Statistical Analysis for Pure Round-Robin
 
 Rounds = 10
 
@@ -79,9 +77,8 @@ Type 2 standart deviation: 65.443315
 
 Type 3 standart deviation: 96.288077
 
--------------------------------------------
 
-Statistical Analysis for Priority Round-Robin
+### Statistical Analysis for Priority Round-Robin
 Rounds = 10
 
 **Mean run time per priority:** 
