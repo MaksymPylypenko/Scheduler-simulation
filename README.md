@@ -4,7 +4,7 @@
 * language:   Python 3.6.1
 * date:       2018-06-30
 
-**Configuration section is in the top of main.py and contains the folling parameters:**
+## Config
 
 `ROUNDS` - the number of rounds to complete 
   - default is 10 
