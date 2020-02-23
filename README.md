@@ -30,8 +30,5 @@
   - default is "processes" 
   - ignored if RANDOM_SAMPLE is set to TRUE
 
-## To run on linux machine (always default scheduler):
-> make 
-
 ## To run on linux machine (choose custom scheduler):
 > python3 main.py <schedulerType>
