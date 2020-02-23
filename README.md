@@ -6,27 +6,27 @@
 
 **Configuration section is in the top of main.py and contains the folling parameters:**
 
-* ROUNDS - the number of rounds to complete 
+`ROUNDS` - the number of rounds to complete 
   - default is 10 
 
-* TIME SLICE - the int value of a maximum work at a time
+`TIME SLICE` - the int value of a maximum work at a time
   - default is 5
 
-* SCHEDULER - type of scheduler
-  0. Pure Round Robin
-  1. Priority Round Robin
-  2. Shortest Job First
-  3. Shortest Remaining Job First
+`SCHEDULER` - type of scheduler
+0. Pure Round Robin
+1. Priority Round Robin
+2. Shortest Job First
+3. Shortest Remaining Job First
 
-* RANDOM_SAMPLE
+`RANDOM_SAMPLE`
   - True, a new sample will be generated every run
   - False, will use processes (default file) 
 
-* PRINT_ROUND 
+`PRINT_ROUND`
   - True, print statistics for every round
   - False, only the summary of all rounds is printed
 
-* FILE - if you want to test a specific sample 
+`FILE` - if you want to test a specific sample 
   - default is "processes" 
   - ignored if RANDOM_SAMPLE is set to TRUE
 
